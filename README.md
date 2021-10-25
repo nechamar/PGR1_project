@@ -1,0 +1,1 @@
+It is an application, which renders interactive space scene using OpenGL. Application has implemented following technologies: custom input data (model and texture) loading, interactivity using mouse and keyboard, skybox, usage of multiple textures on single object, animated textures, Phong shading model with usage of multiple different light sources.
